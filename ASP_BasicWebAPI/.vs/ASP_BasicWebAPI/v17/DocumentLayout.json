@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9A0C70-ED2A-4A1A-9B4A-C67A8008E09A}|ASP_BasicWebAPI\\ASP_BasicWebAPI.csproj|c:\\users\\juanc\\source\\repos\\asp_basicwebapi\\asp_basicwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9A0C70-ED2A-4A1A-9B4A-C67A8008E09A}|ASP_BasicWebAPI\\ASP_BasicWebAPI.csproj|solutionrelative:asp_basicwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9A0C70-ED2A-4A1A-9B4A-C67A8008E09A}|ASP_BasicWebAPI\\ASP_BasicWebAPI.csproj|c:\\users\\juanc\\source\\repos\\asp_basicwebapi\\asp_basicwebapi\\dbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9A0C70-ED2A-4A1A-9B4A-C67A8008E09A}|ASP_BasicWebAPI\\ASP_BasicWebAPI.csproj|solutionrelative:asp_basicwebapi\\dbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9A0C70-ED2A-4A1A-9B4A-C67A8008E09A}|ASP_BasicWebAPI\\ASP_BasicWebAPI.csproj|c:\\users\\juanc\\source\\repos\\asp_basicwebapi\\asp_basicwebapi\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9A0C70-ED2A-4A1A-9B4A-C67A8008E09A}|ASP_BasicWebAPI\\ASP_BasicWebAPI.csproj|solutionrelative:asp_basicwebapi\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9A0C70-ED2A-4A1A-9B4A-C67A8008E09A}|ASP_BasicWebAPI\\ASP_BasicWebAPI.csproj|c:\\users\\juanc\\source\\repos\\asp_basicwebapi\\asp_basicwebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9A0C70-ED2A-4A1A-9B4A-C67A8008E09A}|ASP_BasicWebAPI\\ASP_BasicWebAPI.csproj|solutionrelative:asp_basicwebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9A0C70-ED2A-4A1A-9B4A-C67A8008E09A}|ASP_BasicWebAPI\\ASP_BasicWebAPI.csproj|c:\\users\\juanc\\source\\repos\\asp_basicwebapi\\asp_basicwebapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9A0C70-ED2A-4A1A-9B4A-C67A8008E09A}|ASP_BasicWebAPI\\ASP_BasicWebAPI.csproj|solutionrelative:asp_basicwebapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9A0C70-ED2A-4A1A-9B4A-C67A8008E09A}|ASP_BasicWebAPI\\ASP_BasicWebAPI.csproj|c:\\users\\juanc\\source\\repos\\asp_basicwebapi\\asp_basicwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB9A0C70-ED2A-4A1A-9B4A-C67A8008E09A}|ASP_BasicWebAPI\\ASP_BasicWebAPI.csproj|solutionrelative:asp_basicwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9A0C70-ED2A-4A1A-9B4A-C67A8008E09A}|ASP_BasicWebAPI\\ASP_BasicWebAPI.csproj|c:\\users\\juanc\\source\\repos\\asp_basicwebapi\\asp_basicwebapi\\asp_basicwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DB9A0C70-ED2A-4A1A-9B4A-C67A8008E09A}|ASP_BasicWebAPI\\ASP_BasicWebAPI.csproj|solutionrelative:asp_basicwebapi\\asp_basicwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\ASP_BasicWebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ASP_BasicWebAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\ASP_BasicWebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ASP_BasicWebAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:44:42.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\ASP_BasicWebAPI\\Dbcontext\\DbContext.cs",
+              "RelativeDocumentMoniker": "ASP_BasicWebAPI\\Dbcontext\\DbContext.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\ASP_BasicWebAPI\\Dbcontext\\DbContext.cs",
+              "RelativeToolTip": "ASP_BasicWebAPI\\Dbcontext\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:44:03.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\ASP_BasicWebAPI\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "ASP_BasicWebAPI\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\ASP_BasicWebAPI\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "ASP_BasicWebAPI\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:43:01.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\ASP_BasicWebAPI\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "ASP_BasicWebAPI\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\ASP_BasicWebAPI\\Entity\\User.cs",
+              "RelativeToolTip": "ASP_BasicWebAPI\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:42:36.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\ASP_BasicWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP_BasicWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\ASP_BasicWebAPI\\appsettings.json",
+              "RelativeToolTip": "ASP_BasicWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T16:41:52.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\ASP_BasicWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_BasicWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\ASP_BasicWebAPI\\Program.cs",
+              "RelativeToolTip": "ASP_BasicWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:41:09.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ASP_BasicWebAPI.http",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\ASP_BasicWebAPI\\ASP_BasicWebAPI.http",
+              "RelativeDocumentMoniker": "ASP_BasicWebAPI\\ASP_BasicWebAPI.http",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\ASP_BasicWebAPI\\ASP_BasicWebAPI\\ASP_BasicWebAPI.http",
+              "RelativeToolTip": "ASP_BasicWebAPI\\ASP_BasicWebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-29T16:41:05.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
